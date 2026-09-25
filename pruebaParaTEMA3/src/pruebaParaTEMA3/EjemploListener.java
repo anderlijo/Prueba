@@ -35,7 +35,7 @@ public class EjemploListener extends JFrame{
 		
 		
 		
-		JButton boton=new JButton("Click");
+		JButton boton=new JButton("Click!!!!");
 	//	boton.addActionListener(new  ClickListener());
 //		boton.addActionListener(new ActionListener(){				// !!!!!!!!!!!!-->a esto me refiero<--!!!!!!!!!!!!!
 //
